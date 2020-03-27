@@ -1,0 +1,36 @@
+09:02:47.770 MesDb2ERPDb 1.0.0 : Started 
+09:30:05.843 MesDb2ERPDb 1.0.0 : Started 
+09:36:30.732 MesDb2ERPDb 1.0.0 : Started 
+09:51:35.452 MesDb2ERPDb 1.0.0 : Started 
+09:54:59.284 MesDb2ERPDb 1.0.0 : Started 
+11:20:22.664 MesDb2ERPDb 1.0.0 : Started 
+13:17:53.114 MesDb2ERPDb 1.0.0 : Started 
+13:26:39.446 sqlExecuteScalarString(string sql) : Invalid object name 'SFT_TRANSORDER_LINE'.
+13:26:40.902 Database Responce : 
+13:42:46.256 MesDb2ERPDb 1.0.0 : Started 
+13:43:19.080 Database Responce : 
+13:45:34.317 MesDb2ERPDb 1.0.0 : Started 
+13:45:44.792 Database Responce : 
+13:45:46.785 Database Responce : 
+13:45:48.028 Database Responce : 
+13:45:50.979 Database Responce : 
+13:45:52.124 Database Responce : 
+13:45:53.542 Database Responce : 
+13:45:54.917 Database Responce : 
+13:45:56.843 Database Responce : 
+13:48:06.220 MesDb2ERPDb 1.0.0 : Started 
+13:53:26.128 MesDb2ERPDb 1.0.0 : Started 
+14:08:49.232 MesDb2ERPDb 1.0.0 : Started 
+14:15:29.863 MesDb2ERPDb 1.0.0 : Started 
+14:17:48.401 MesDb2ERPDb 1.0.0 : Started 
+14:19:25.634 MesDb2ERPDb 1.0.0 : Started 
+14:20:55.605 MesDb2ERPDb 1.0.0 : Started 
+14:21:44.003 MesDb2ERPDb 1.0.0 : Started 
+14:22:15.788 MesDb2ERPDb 1.0.0 : Started 
+14:29:32.940 MesDb2ERPDb 1.0.0 : Started 
+14:30:06.274 MesDb2ERPDb 1.0.0 : Started 
+14:40:17.569 MesDb2ERPDb 1.0.0 : Started 
+15:00:05.050 MesDb2ERPDb 1.0.0 : Started 
+15:09:16.782 MesDb2ERPDb 1.0.0 : Started 
+15:10:07.317 MesDb2ERPDb 1.0.0 : Started 
+15:23:15.515 MesDb2ERPDb 1.0.0 : Started 

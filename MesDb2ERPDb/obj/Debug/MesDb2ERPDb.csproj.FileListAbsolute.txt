@@ -1,0 +1,17 @@
+D:\AN\Project\github_clone\MESDb2ERP\MesDb2ERPDb\bin\Debug\MesDb2ERPDb.exe.config
+D:\AN\Project\github_clone\MESDb2ERP\MesDb2ERPDb\bin\Debug\MesDb2ERPDb.exe
+D:\AN\Project\github_clone\MESDb2ERP\MesDb2ERPDb\bin\Debug\MesDb2ERPDb.pdb
+D:\AN\Project\github_clone\MESDb2ERP\MesDb2ERPDb\obj\Debug\MesDb2ERPDb.csprojAssemblyReference.cache
+D:\AN\Project\github_clone\MESDb2ERP\MesDb2ERPDb\obj\Debug\MainWindow.g.cs
+D:\AN\Project\github_clone\MESDb2ERP\MesDb2ERPDb\obj\Debug\App.g.cs
+D:\AN\Project\github_clone\MESDb2ERP\MesDb2ERPDb\obj\Debug\MesDb2ERPDb_MarkupCompile.cache
+D:\AN\Project\github_clone\MESDb2ERP\MesDb2ERPDb\obj\Debug\MesDb2ERPDb_MarkupCompile.lref
+D:\AN\Project\github_clone\MESDb2ERP\MesDb2ERPDb\obj\Debug\MainWindow.baml
+D:\AN\Project\github_clone\MESDb2ERP\MesDb2ERPDb\obj\Debug\MesDb2ERPDb.g.resources
+D:\AN\Project\github_clone\MESDb2ERP\MesDb2ERPDb\obj\Debug\MesDb2ERPDb.Properties.Resources.resources
+D:\AN\Project\github_clone\MESDb2ERP\MesDb2ERPDb\obj\Debug\MesDb2ERPDb.csproj.GenerateResource.cache
+D:\AN\Project\github_clone\MESDb2ERP\MesDb2ERPDb\obj\Debug\MesDb2ERPDb.exe
+D:\AN\Project\github_clone\MESDb2ERP\MesDb2ERPDb\obj\Debug\MesDb2ERPDb.pdb
+D:\AN\Project\github_clone\MESDb2ERP\MesDb2ERPDb\bin\Debug\Resources\Artua-Wall-E-Eve.ico
+D:\AN\Project\github_clone\MESDb2ERP\MesDb2ERPDb\obj\Debug\View\WindowConfig.g.cs
+D:\AN\Project\github_clone\MESDb2ERP\MesDb2ERPDb\obj\Debug\View\WindowConfig.baml
